@@ -1,0 +1,15 @@
+*.ipch
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.suo
+*.filters
+*.user
+*.recipe
+*.log
+*.obj
+*.idb
+*.pdb
+*.lastbuildstate
+*.tlog
